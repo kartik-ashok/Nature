@@ -1,0 +1,20 @@
+.thank-you-container {
+    margin: 50px auto;
+    max-width: 600px;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .thank-you-container h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .thank-you-container p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+
+  }
+  

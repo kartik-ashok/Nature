@@ -1,0 +1,137 @@
+/* General Styles */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  /* Header Styles */
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    width: 100%;
+  }
+  
+  nav ul {
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-right: 1rem;
+  }
+  
+  nav ul li a {
+    font-weight: bold;
+  }
+  
+  /* Main Content Styles */
+  
+  main {
+    margin: 1rem;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  section h2 {
+    margin-bottom: 1rem;
+  }
+  
+  section ul li {
+    margin-bottom: 0.5rem;
+  }
+  
+  /* About Section Styles */
+  
+  section#about img {
+    max-width: 100%;
+  }
+  
+  section#about footer {
+    margin-top: 1rem;
+  }
+  
+  section#about footer a {
+    background-color: #fff;
+    border-radius: 4px;
+    color: #333;
+    display: inline-block;
+    margin-right: 0.5rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  /* Contact Section Styles */
+  
+  section#contact form label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  section#contact form input[type="text"],
+  section#contact form input[type="email"],
+  section#contact form textarea {
+    display: block;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    width: 100%;
+  }
+  
+  section#contact form input[type="submit"] {
+    background-color: #333;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+  }
+  .x {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    border-color: aliceblue;
+    margin-bottom:10px;
+
+  }
+  img
+  {
+    width: 70px;
+    height: 70px;
+  }
+
+
+
+  .linksc 
+{
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+  }
+  
+
+.y
+{
+  margin-left: 50px;
+}
